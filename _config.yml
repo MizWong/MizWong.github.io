@@ -59,8 +59,8 @@ netease_comment: false
 # For gitment
 gitment: true
 gitment-repo: comments
-gitment-client-id: 8d920ad685683a529e83
-gitment-client-secret: ffabf134048e374883ee67d3786a9a6b7d8d3cdc
+gitment-client-id: bd383500e58fc49aa9d1
+gitment-client-secret: e103a0adf9ad5bd1e357905a6ead9329cf6f8371
 
 # For test
 #gitment-repo: test-comments
