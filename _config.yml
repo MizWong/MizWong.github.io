@@ -58,7 +58,7 @@ netease_comment: false
 
 # For gitment
 gitment: true
-gitment-repo: comments
+gitment-repo: BlogComment
 gitment-client-id: bd383500e58fc49aa9d1
 gitment-client-secret: e103a0adf9ad5bd1e357905a6ead9329cf6f8371
 
