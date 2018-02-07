@@ -1,7 +1,8 @@
 # Site settings
 title: Miz.Wong
 SEOTitle: Miz.Wong's Blog
-header-img: img/home-bg-hill.jpg
+header-img: img/Rolling Waves.jpg
+#home-bg-hill.jpg
 email: MizWong@foxmail.com
 description: "描述"
 keyword: "DSP,Embedded System,Baseband,Base station,Wireless,Algorithm"
